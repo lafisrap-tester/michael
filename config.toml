@@ -3,9 +3,9 @@
 # Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
 #
 #--------------------------------------------------------------
-Baseurl = "https://invisible-university.github.io/template/"
+Baseurl = "https://lafisrap-tester.github.io/michael/"
 LanguageCode = "de-DE"
-Title = "大學 Invisible University - Template"
+Title = "大學 Invisible University - Michael Schmidt"
 Theme = "hugo-university-theme"
 publishDir = "docs"
 
@@ -26,8 +26,8 @@ publishDir = "docs"
 
 	# !Important: Theme colors can be selected in static/less/vitality.less
 	
-	Name = "Invisible University - Template"
-	Description = "This is just a template. Fork it!"
+	Name = "Invisible University - Michael Schmidt"
+	Description = "Alles! Alles!"
 	Favicon = "favicon.ico"
 	Author = "Lafisrap (Michael Schmidt)"
 	Brand = "大學 Invisible University"
